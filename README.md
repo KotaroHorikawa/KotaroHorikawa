@@ -24,6 +24,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/KotaroHorikawa/KotaroHorikawa/output/snake-dark.svg" alt="Snake animation" />
 </p>
+
 ---
 
 ## Tech Stack
