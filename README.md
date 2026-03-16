@@ -21,13 +21,13 @@
 
 ## Commits
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KotaroHorikawa&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KotaroHorikawa&theme=tokyonight" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KotaroHorikawa&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KotaroHorikawa&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KotaroHorikawa&theme=tokyonight" width="95%" />
 </p>
 
 ---
