@@ -1,7 +1,5 @@
-<h1 align="center">I'm a Researcher of Deep Learning</h1>
-
 <p align="center">
-  Deep Learning Researcher at Meijo University
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Kotaro+Horikawa;Web+Engineer+and+Deep+Learning+Researcher;Building+practical+web+systems+and+exploring+intelligent+models" alt="Typing SVG" />
 </p>
 
 ---
